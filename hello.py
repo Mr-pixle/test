@@ -2,4 +2,4 @@
 def say (a):
     return f'hi dear {a}'
 
-print (say('amir')
+print (say('amir'))
